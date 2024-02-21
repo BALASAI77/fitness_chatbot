@@ -13,6 +13,8 @@ Install the required Python libraries using pip:
 
 code:
 pip install streamlit chromadb google-generativeai PyPDF2
+
+
 Obtain a Google API key for accessing the Generative AI services and set it as an environment variable named GOOGLE_API_KEY.
 
 Usage
@@ -22,6 +24,8 @@ Run the Streamlit application by executing the following command in the terminal
 code:
 
 streamlit run fitness_chatbot.py
+
+
 Once the application is running, users can interact with the Fitness Chatbot through the provided text input fields and buttons.
 
 Functionality
